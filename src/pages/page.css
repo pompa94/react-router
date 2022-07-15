@@ -1,0 +1,33 @@
+#home{
+    background-color: green;
+}
+
+#sample01{
+    background-color: red;
+}
+
+#sample02{
+    background-color: blue;
+}
+
+#sample03{
+    background-color: purple;
+}
+
+article{
+    height: 60vh;
+    padding: 35px 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+article>h1{
+    color: #fff;
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+article>p{
+    color: #fff;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
